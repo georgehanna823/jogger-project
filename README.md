@@ -1,4 +1,4 @@
-# Basic Project
+# Hours Jogged Project
 
 *Structure for creating a Basic Java Project.*
 
